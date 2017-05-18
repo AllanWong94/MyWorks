@@ -1,0 +1,1 @@
+-edit G:\\MyWorks\\editor\\1.txt G:\\MyWorks\\editor\\2.txt
