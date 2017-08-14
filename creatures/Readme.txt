@@ -1,0 +1,4 @@
+This is a small simulator that simulates the three kind of creatures, SampleCreatures, Plips, and Cloruses.
+SampleCreatures are just some passers-by who never interacts with the other two kinds of creatures and wander or stay around with a possibility of 0.2. (In red)
+Plips are lazy but motile photosynthesizing creatures. Mostly they just stand around and grow and replicate.As their energy increases through photosynthesis, their color turns lighter and lighter. They'll flee if they happen to see their mortal enemy, the Clorus. (In green)
+Clorus, on the other hand, are fierce blue-colored predators that enjoys nothing more than snacking on hapless Plips. They don't produce energy by themselves, but harvest energy from their victims instead.(In blue)
